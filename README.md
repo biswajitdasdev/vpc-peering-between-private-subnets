@@ -20,6 +20,7 @@ Go to VPC in the AWS Management Console.
 Click on Create VPC, set the CIDR block to 10.1.0.0/16, and name it VPC-1.
 Create a subnet for VPC-1 with CIDR 10.1.1.0/24 and name it Public Subnet 1.
 Create a subnet for VPC-2 with CIDR 10.1.2.0/24 and name it Private Subnet 1.
+
 **Create VPC 2:**
 Follow the same steps for VPC-2 using CIDR 10.2.0.0/16.
 Create a subnet within VPC-2 with CIDR 10.2.2.0/24 and name it Private Subnet 2.
